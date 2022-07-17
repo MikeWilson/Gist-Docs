@@ -11,6 +11,3 @@ Gist was built to document design systems in Figma. As a designer, I found it fr
 
 
 Gist solves this by attaching the documentation *to* the component. Meaning that your designers have access to component docs in their working file as they are using the component.
-
-\
-\
