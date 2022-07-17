@@ -1,20 +1,14 @@
-# Welcome to Gist
+# Gist
+
+Gist is a documentation tool for Figma made by [@mk_wlsn](https://twitter.com/mk_wlsn)
 
 
-:::info
-Leave the plugin open as you navigate this demo file
+## Why?
 
-:::
+Gist was built to document design systems in Figma. As a designer, I found it frustrating to have to leave my working file and dig through a Figma file to find documentation for a component. 
 
-Gist is a documentation tool for Figma built by [@mk_wlsn](https://twitter.com/mk_wlsn)
+\
+Gist solves this by attaching the documentation *to* the component. Meaning that your designers have access to component docs in their working file as they are using the component. 
 
-
----
-
-## Try it
-
-
-1. Select the editor and try typing `/`
-2. Now try selecting some text and make it bolder
-
-
+\
+\
