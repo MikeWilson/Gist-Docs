@@ -12,7 +12,7 @@ Gist is a documentation tool for Figma built by [@mk_wlsn](https://twitter.com/m
 
 ---
 
-## Try it out…
+## Try it out
 
 
 1. Select the editor and try typing `/`
