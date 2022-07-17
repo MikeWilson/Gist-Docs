@@ -8,6 +8,7 @@ Leave the plugin open as you navigate this demo file
 
 Gist is a documentation tool for Figma built by [@mk_wlsn](https://twitter.com/mk_wlsn)
 
+\
 
 ---
 
