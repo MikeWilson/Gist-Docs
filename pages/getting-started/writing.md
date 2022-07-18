@@ -1,6 +1,6 @@
 # Writing
 
-To write in Gist simply open the app and select the large text area. Use Markdown syntax or style text with the in-editor UI.
+Write your documentation in the large text area. Use Markdown syntax or style text with the in-editor UI.
 
 
 Select some text, click the ‘+’ icon, or type ‘/’ to access the editor UI.
