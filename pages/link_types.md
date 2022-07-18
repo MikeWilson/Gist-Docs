@@ -1,5 +1,7 @@
 # Link types
 
+Linking to external data requires different details per link type. Here is a list of all the link types and their required details:
+
 ## iframe
 
 * URL
@@ -10,10 +12,7 @@
 * File path - A path to the file
   * Easy to find the path if you navigate to the file in Github
 
-    
      ![](https://i.gyazo.com/23e56520c1491a7520e589dcf7057547.png)
-
-    
 * Personal Access Token - used to authenticate the plugin. [Generate one here](https://github.com/settings/tokens)
 
 ## JSONBin
