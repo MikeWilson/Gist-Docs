@@ -7,7 +7,6 @@ Gist’s advanced features require a subscription of $4 / month for individuals 
 
 **Viewing documentation does not require a license**
 
-
 ## Activate Gist pro
 
 
