@@ -8,4 +8,4 @@ Go to the Figma Community page to install Gist
 
 
 
- ![Try it out button](https://i.gyazo.com/abf41c7202c1d7a0959d7a94801fef2f.png)
+[ ![Image from Gyazo](https://i.gyazo.com/abf41c7202c1d7a0959d7a94801fef2f.png)](https://gyazo.com/abf41c7202c1d7a0959d7a94801fef2f)
