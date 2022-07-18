@@ -6,4 +6,6 @@ To write in Gist simply open the app and select the large text area. Use Markdow
 Select some text, click the ‘+’ icon, or type ‘/’ to access the editor options.
 
 
- ![Editing text in Gist](https://i.gyazo.com/1c1bc6bc33035683c61c7a476f9ed93f.gif)
+## Saving
+
+Once you’ve composed your document, select the component (or most anything in Figma) and click ‘Save’
