@@ -1,6 +1,6 @@
 # Gist
 
-Gist was built to document design systems in Figma. As a designer, I found it frustrating to have to leave my working file and dig through a Figma file to find documentation for a component.
+Gist is a documentation tool for Figma. Gist was made to document design systems. As a designer, it’s frustrating to have to leave the working file and search the web or a Figma file for component documentation.
 
 
 
@@ -12,16 +12,17 @@ Made by [@mk_wlsn](https://twitter.com/mk_wlsn)
 
 ## At a glance
 
+### Write
 
-1. Write
+Easily write using Markdown in a rich text editor.
 
-   
+### Link
 
-2. Link
+Pull in external documentation by linking components to: iframes, Github, JSONBin, and Notion.
 
-   
+### Publish
 
-3. Publish
+Publish your documentation to JSONBin or Github. 
 
 
 
