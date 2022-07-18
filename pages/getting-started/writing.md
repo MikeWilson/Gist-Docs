@@ -4,5 +4,3 @@ To write in Gist simply open the app and select the large text area. Use Markdow
 
 
 Select some text, click the ‘+’ icon, or type ‘/’ to access the editor options.
-
-
