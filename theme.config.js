@@ -1,6 +1,6 @@
 export default {
-  github: 'https://github.com/MikeWilson/Gist-Docs/',
-  docsRepositoryBase: 'https://github.com/MikeWilson/Gist-Docs/tree/main/pages',
+  github: 'https://github.com/shuding/nextra',
+  docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
   titleSuffix: ' – Gist',
   logo: (
     <>
