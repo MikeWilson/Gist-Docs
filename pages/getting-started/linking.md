@@ -22,11 +22,13 @@ Fill in the details for that link source and, much like saving written docs, sel
 ## JSONBin
 
 * Bin URL
-* 
+* Path - A dot seperated path to the data in the Bin JSON
+* API Key - A key used to access private Bins
 
-## iframes
+## Notion
 
 * URL
+* Notion Key - 
 
 
 
