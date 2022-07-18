@@ -18,5 +18,3 @@ You can create a template for your written docs or link details.
 
 
 
-
-
