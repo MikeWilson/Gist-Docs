@@ -27,8 +27,8 @@ Fill in the details for that link source and, much like saving written docs, sel
 
 ## Notion
 
-* URL
-* Notion Key - 
+* Notion Page URL
+* Integration Token - [Create an integration to use Gist](https://www.notion.so/help/create-integrations-with-the-notion-api)
 
 
 
