@@ -1,4 +1,4 @@
-# Gist
+# Gists
 
 Gist is a documentation tool for Figma. Gist was made to document design systems. As a designer, it’s frustrating to have to leave the working file and search the web or a Figma file for component documentation.
 
