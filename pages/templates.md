@@ -17,4 +17,3 @@ You can create a template for your written docs or link details.
 3. Click again to confirm the deletion. **This cannot be undone.**
 
 
-
