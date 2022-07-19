@@ -5,7 +5,6 @@ Write your documentation in the large text area. Use Markdown syntax or style te
 
 Select some text, click the ‘+’ icon, or type ‘/’ to access the editor UI.
 
-
 ## Saving
 
 Once you’ve composed your document, select the component (or most anything in Figma) and click ‘Save’
