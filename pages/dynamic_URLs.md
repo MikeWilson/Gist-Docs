@@ -2,6 +2,7 @@
 
 Components layer names often match the name you might use in a doc site URL, Github file name, etc.
 
+/n 
 
 You can dynamically add the layer name by adding `{{layer_name}}` to a URL or a path. Gist will swap that for the layer name when pulling and publishing data.
 
