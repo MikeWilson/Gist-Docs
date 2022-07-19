@@ -2,10 +2,10 @@
 
 "install": "Install",
 
-"writing":"Write",
+"write":"Write",
 
-"linking":"Link",
+"link":"Link",
 
-"publishing":"Publish - Title Override"
+"publish":"Publish"
 
 }
