@@ -1,0 +1,11 @@
+{
+
+“install”: “Install”,
+
+“write”:"Write”,
+
+“link”:”Link,
+
+“publish”:”Publish
+
+}
