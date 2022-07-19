@@ -60,6 +60,6 @@ export default {
   search: true,
   prevLinks: true,
   nextLinks: true,
-  footer: false,
+  footer: true,
   footerEditLink: 'Edit this page on GitHub',
 }
