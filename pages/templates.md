@@ -11,6 +11,8 @@ You can create a template for your written docs or link details.
 
 ## Delete
 
+Test
+
 
 1. Open the Template menu
 2. Click the trash can icon on the template you’d like to delete
