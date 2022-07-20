@@ -3,7 +3,7 @@
 Creating documentation and linking an iframe are free-to-use for any individual or team.
 
 
-Gist’s advanced features require a subscription of `$4/month` for individuals or `$18/month` for teams. **Viewing documentation does not require a license**
+Gist’s advanced features require a subscription of `$4/month` for individuals or `$15/month` for teams. **Viewing documentation does not require a license**
 
 
 ## Activate Gist pro
