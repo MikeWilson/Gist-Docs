@@ -15,7 +15,7 @@ Easily write using Markdown in a rich text editor.
 
 ### Link
 
-Pull in external documentation by linking components to: iframes, Github, JSONBin, and Notion.
+Pull in external documentation by linking components to: iframe, Github, JSONBin, and Notion.
 
 ### Publish
 
