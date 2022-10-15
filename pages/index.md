@@ -9,7 +9,7 @@ Gist solves this by attaching the documentation *to* the component. Meaning that
 Made by [@mk_wlsn](https://twitter.com/mk_wlsn)
 
 
-### Writes
+### Write
 
 Easily write using Markdown in a rich text editor.
 
@@ -19,4 +19,4 @@ Pull in external documentation by linking components to: iframe, Github, JSONBin
 
 ### Publish
 
-Publish your documentation to JSONBin or Github. This doc site was published from Figma using Gist!
+Publish your documentation to JSONBin or Github. This doc site was published from Figma using Gist!.
