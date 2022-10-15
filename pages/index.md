@@ -19,4 +19,4 @@ Pull in external documentation by linking components to: iframe, Github, JSONBin
 
 ### Publish
 
-Publish your documentation to JSONBin or Github. This doc site was published from Figma using Gist!?
+Publish your documentation to JSONBin or Github. This doc site was published from Figma using Gist!
