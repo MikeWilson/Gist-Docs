@@ -13,7 +13,7 @@ Made by [@mk_wlsn](https://twitter.com/mk_wlsn)
 
 Easily write using Markdown in a rich text editor.
 
-### Link
+### Links
 
 Pull in external documentation by linking components to: iframe, Github, JSONBin, and Notion.
 
