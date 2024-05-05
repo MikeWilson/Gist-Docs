@@ -6,7 +6,7 @@ Gist is a documentation tool for Figma. Gist was made to document design systems
 Gist solves this by attaching the documentation *to* the component. Meaning that your designers have access to component docs in their working file as they are using the component.
 
 
-Made by [@mk_wlsn](https://twitter.com/mk_wlsn)
+Made by [@mk_wlsn](https://twitter.com/mk_wlsn).
 
 
 ### Write
